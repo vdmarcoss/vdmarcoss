@@ -89,7 +89,3 @@ Areas of interest:
 ## Contact
 
 For professional enquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/marcos-vasquez-diaz/).
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFB3,100:1BA9F5&height=100&section=footer" width="100%"/>
-</div>
