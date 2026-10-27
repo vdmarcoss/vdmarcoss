@@ -1,67 +1,95 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00E5FF&height=200&section=header&text=vdmarcoss&fontSize=48&fontColor=00E5FF&animation=fadeIn&fontAlignY=36&desc=DevSecOps%20//%20RED%20TEAM%20OPERATOR%20//%20AI%20x%20OFFENSIVE%20SECURITY&descAlignY=56&descSize=15&descColor=FF2E97" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=root%40vdmarcoss%3A~%23+./boot_bending_unit.sh;%5BOK%5D+alcohol+reactor%3A+online;%5BOK%5D+red-team+modules+loaded;%5B%2A%5D+bending+attack+surfaces...;%5B%2B%5D+root+shell+obtained.+bite+my+shiny+metal+ASCII." alt="boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=00BFB3&center=true&vCenter=true&width=700&lines=Offensive+security+engineer+at+Elastic;Building+tooling+for+reconnaissance+and+bug+bounty;Exploring+the+intersection+of+AI+and+security" alt="Introduction" />
 
 </div>
 
 <!-- ===================== BADGES ===================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-vasquez-diaz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
+    <img src="https://img.shields.io/badge/LinkedIn-343741?style=for-the-badge&logo=linkedin&logoColor=1BA9F5" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/CLEARANCE-RED%20TEAM-FF2E97?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/POWER-alcohol-FF2E97?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Red%20Team-F04E98?style=for-the-badge&labelColor=343741" alt="Focus: Red Team" />
+  <img src="https://img.shields.io/badge/Role-DevSecOps-00BFB3?style=for-the-badge&labelColor=343741" alt="Role: DevSecOps" />
+  <img src="https://img.shields.io/badge/Employer-Elastic-1BA9F5?style=for-the-badge&labelColor=343741" alt="Employer: Elastic" />
 </p>
 
-<div align="center">
-  <img src="assets/bender.gif" width="200" alt="Bender Rodriguez" />
-</div>
+---
 
-### 🤖 `> whoami`
+## About
 
-```bash
-$ whoami
-> vdmarcoss // bending unit repurposed for offensive security.
-> I break things safely, then build tooling so I never repeat myself.
-> working @ Elastic.
-```
+I am a DevSecOps engineer at **Elastic**, where I focus on offensive security and security education.
 
-### 📡 `> active_engagements`
+Areas of interest:
+
+- Reconnaissance and OSINT methodology for bug-bounty and red-team engagements
+- The application of AI and large language models to offensive security workflows
+- Security curriculum design and infrastructure.
+
+---
+
+## Featured Projects
+
 <table align="center">
   <tr>
-    <th>Codename</th>
-    <th>Objective</th>
+    <th>Project</th>
+    <th>Description</th>
     <th>Status</th>
   </tr>
   <tr>
     <td><a href="https://github.com/vdmarcoss/styrecon"><b>STYRECON</b></a></td>
-    <td>Stateful, scope-aware Python CLI orchestrating a full bug-bounty recon toolchain</td>
-    <td><img src="https://img.shields.io/badge/LIVE-00E5FF?style=flat-square&labelColor=0D1117" /></td>
+    <td>A stateful, scope-aware Python CLI that orchestrates a complete bug-bounty reconnaissance toolchain</td>
+    <td><img src="https://img.shields.io/badge/Active-00BFB3?style=flat-square&labelColor=343741" alt="Active" /></td>
   </tr>
   <tr>
     <td><a href="https://github.com/vdmarcoss/ctf-fieldguide"><b>CTF-FIELDGUIDE</b></a></td>
-    <td>Field notes &amp; reference guide pulled straight from CTF engagements</td>
-    <td><img src="https://img.shields.io/badge/ONGOING-FF2E97?style=flat-square&labelColor=0D1117" /></td>
+    <td>Field notes and a practical reference guide compiled from CTF engagements</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-F04E98?style=flat-square&labelColor=343741" alt="In Progress" /></td>
   </tr>
 </table>
 
-### 🎯 `> current_objectives`
-- ⚡ Sharpening recon & OSINT tradecraft for bug-bounty ops
-- 🤖 Mapping where AI meets offensive security
-- 🧩 Building security curriculum @ Elastic
+---
 
-### 🧰 `> loadout`
+## Current Focus
+
+- Refining reconnaissance and OSINT tradecraft for bug-bounty operations
+- Researching where AI can augment offensive security
+- Developing security curriculum and training material at Elastic
+
+---
+
+## Tools & Technologies
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=FF2E97" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF2E97" />
-  <img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=FF2E97" />
+  <img src="https://img.shields.io/badge/Python-343741?style=flat-square&logo=python&logoColor=1BA9F5" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-343741?style=flat-square&logo=gnubash&logoColor=00BFB3" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-343741?style=flat-square&logo=linux&logoColor=F04E98" alt="Linux" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-343741?style=flat-square&logo=burpsuite&logoColor=F04E98" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-343741?style=flat-square&logo=nmap&logoColor=1BA9F5" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-343741?style=flat-square&logo=metasploit&logoColor=00BFB3" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Elastic%20Security-343741?style=flat-square" alt="Elastic Security" />
 </p>
 
-### 📊 `> system_stats`
+---
+
+## GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vdmarcoss&show_icons=true&hide_border=true&bg_color=343741&title_color=1BA9F5&icon_color=00BFB3&text_color=FFFFFF&ring_color=1BA9F5" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdmarcoss&layout=compact&hide_border=true&bg_color=343741&title_color=1BA9F5&text_color=FFFFFF" alt="Most used languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vdmarcoss&hide_border=true&background=343741&ring=1BA9F5&fire=F04E98&currStreakNum=F04E98&currStreakLabel=00BFB3&sideNums=FFFFFF&sideLabels=00BFB3&dates=1BA9F5" alt="Contribution streak" />
+</div>
+
+---
+
+## Contact
+
+For professional enquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/marcos-vasquez-diaz/).
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFB3,100:1BA9F5&height=100&section=footer" width="100%"/>
+</div>
